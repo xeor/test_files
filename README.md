@@ -32,6 +32,12 @@ The same with _script folder, might contain scripts used to generate files in th
     * ./certificate - root ca's, self signed, certificate requests and so on.
     * ./encrypted - pgp encrypted, xor'ed text files and so on..
 
+* /data
+    * ./csv - Different types of csv formated data
+    * ./json
+    * ./yaml
+    * ./xml
+
 * /image
     * ./color - Images in different colors.
     * ./object - a few images of different type of items/objects. Not many, but might be used for image recognition
