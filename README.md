@@ -12,6 +12,11 @@ Structure
 There is going to be a lot of loose files in here, so the overall base structure is this.
 Note that there can be text files in both ./txt and ./encryped.
 
+Folders inside a directory starting with an _, is metadata for generation of the files.
+Example, archive_compressed/_sourcefiles/* is the files used in making all the files in the archive_compressed folder.
+The same with _script folder, might contain scripts used to generate files in the current folder.
+
+
 * /archive_compressed
     * ./archive - uncompressed zip, .tar, .iso..
     * ./compressed - zip, rar, tgz, arj....
@@ -39,7 +44,7 @@ Note that there can be text files in both ./txt and ./encryped.
 * /text
     * ./doc - odf files of different kinds, .doc, .docx...
     * ./read - pdf and different kind of book formats.
-    * ./txt - Files with long lines, lorem ipsum, utf-8, different formats.
+    * ./txt - Files with long lines, lorem ipsum, utf-8, different formats and encodings.
 
 
 File names
