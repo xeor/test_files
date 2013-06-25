@@ -47,6 +47,11 @@ The same with _script folder, might contain scripts used to generate files in th
 * /size
     * . - Files with different sizes. Not too big, but small 0 size files, 1MiB file and a couple more.
 
+* /sound
+    * ./length
+    * ./tone
+    * ./type
+
 * /text
     * ./doc - odf files of different kinds, .doc, .docx...
     * ./read - pdf and different kind of book formats.
