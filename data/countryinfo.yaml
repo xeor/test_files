@@ -1,0 +1,20 @@
+brazil:
+  data_age: '2012-07-01'
+  languages: [portoguese]
+  population: 193946886
+china:
+  data_age: '2012-12-31'
+  languages: [chinise, mongolian, tibetan, uyghur, zhuang]
+  population: 135404000
+india:
+  data_age: '2011-03-01'
+  languages: [hindi, english]
+  population: 1210569573
+indonesia:
+  data_age: '2010-05-01'
+  languages: [indonesian]
+  population: 237641326
+usa:
+  data_age: '2013-06-25'
+  languages: [english]
+  population: 316116000
