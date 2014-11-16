@@ -5,6 +5,12 @@ The idea of test_files is to collect different types of files that you some time
 One file per type, different types of images, text, uncompressable data, encrypted file, zip, encrypted zip and so on..
 To help us geeks to find the test files we suddenly just needs for some project of ours.
 
+Other datasets
+==============
+
+This `test_files` project is more about file-types than anything else. I'l try to keep a list of other projects related to test-material here..
+
+* https://github.com/dariusk/corpora - Lots of json formated datasets for testing.
 
 Structure
 =========
